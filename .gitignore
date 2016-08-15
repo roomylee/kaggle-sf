@@ -1,0 +1,14 @@
+# Document to be made... #
+# .gitignore can be locally configured, for sure.
+
+# Files
+.DS_Store
+
+# Extensions
+*.html
+*.py
+
+# Directories
+data/
+temp/
+backup/
