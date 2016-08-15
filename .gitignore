@@ -5,8 +5,8 @@
 .DS_Store
 
 # Extensions
-*.html
-*.py
+# *.html
+# *.py
 
 # Directories
 data/
